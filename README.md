@@ -102,8 +102,8 @@ hr { margin-top: auto; margin-bottom: auto;}
 			      <td colspan="3" align="center">
 			        <table border = "0" width="100%" cellpadding="0" cellspacing="0" class="blue">
 			          <tr><td colspan="3"><hr></td></tr>
-			          <tr bgcolor="#e0e0e0"><td width="35%" align="left">NO. REK.</td><td width="10">:</td><td align="left">6860147082</td></tr>
-			          <tr bgcolor="#f0f0f0"><td width="35%" align="left">NAMA</td><td width="10">:</td><td align="left">GLENTHON RISHARD E</td></tr>
+			          <tr bgcolor="#e0e0e0"><td width="35%" align="left">NO. REK.</td><td width="10">:</td><td align="left">2720127019</td></tr>
+			          <tr bgcolor="#f0f0f0"><td width="35%" align="left">NAMA</td><td width="10">:</td><td align="left">INAH PRIATNAH</td></tr>
 			          <tr bgcolor="#e0e0e0"><td width="35%" align="left">PERIODE</td><td width="10">:</td><td align="left">17/07/2019 - 22/07/2019</td></tr>
 			          <tr bgcolor="#f0f0f0"><td width="35%" align="left">MATA UANG</td><td width="10">:</td><td align="left">IDR</td></tr>
 			          <tr><td colspan="3"><hr></td></tr>
